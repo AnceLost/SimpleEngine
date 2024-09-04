@@ -24,7 +24,7 @@ events:
       The output was:
       0
       Версия MSBuild 17.7.2+d6990bcfa для .NET Framework
-      Сборка начата 04.09.2024 21:23:50.
+      Сборка начата 05.09.2024 1:02:59.
       
       Проект "C:\\Users\\Балбес\\Desktop\\учебка\\c++_opengl_уроки\\SimpleEngine\\build\\CMakeFiles\\3.30.2\\CompilerIdC\\CompilerIdC.vcxproj" в узле 1 (целевые объекты по умолчанию).
       PrepareForBuild:
@@ -52,7 +52,7 @@ events:
           Предупреждений: 0
           Ошибок: 0
       
-      Прошло времени 00:00:00.56
+      Прошло времени 00:00:00.69
       
       
       Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
@@ -78,7 +78,7 @@ events:
       The output was:
       0
       Версия MSBuild 17.7.2+d6990bcfa для .NET Framework
-      Сборка начата 04.09.2024 21:23:51.
+      Сборка начата 05.09.2024 1:03:00.
       
       Проект "C:\\Users\\Балбес\\Desktop\\учебка\\c++_opengl_уроки\\SimpleEngine\\build\\CMakeFiles\\3.30.2\\CompilerIdCXX\\CompilerIdCXX.vcxproj" в узле 1 (целевые объекты по умолчанию).
       PrepareForBuild:
@@ -106,7 +106,7 @@ events:
           Предупреждений: 0
           Ошибок: 0
       
-      Прошло времени 00:00:00.45
+      Прошло времени 00:00:00.48
       
       
       Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
@@ -125,47 +125,47 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "C:/Users/\u0411\u0430\u043b\u0431\u0435\u0441/Desktop/\u0443\u0447\u0435\u0431\u043a\u0430/c++_opengl_\u0443\u0440\u043e\u043a\u0438/SimpleEngine/build/CMakeFiles/CMakeScratch/TryCompile-ybbwht"
-      binary: "C:/Users/\u0411\u0430\u043b\u0431\u0435\u0441/Desktop/\u0443\u0447\u0435\u0431\u043a\u0430/c++_opengl_\u0443\u0440\u043e\u043a\u0438/SimpleEngine/build/CMakeFiles/CMakeScratch/TryCompile-ybbwht"
+      source: "C:/Users/\u0411\u0430\u043b\u0431\u0435\u0441/Desktop/\u0443\u0447\u0435\u0431\u043a\u0430/c++_opengl_\u0443\u0440\u043e\u043a\u0438/SimpleEngine/build/CMakeFiles/CMakeScratch/TryCompile-smdsr4"
+      binary: "C:/Users/\u0411\u0430\u043b\u0431\u0435\u0441/Desktop/\u0443\u0447\u0435\u0431\u043a\u0430/c++_opengl_\u0443\u0440\u043e\u043a\u0438/SimpleEngine/build/CMakeFiles/CMakeScratch/TryCompile-smdsr4"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
     buildResult:
       variable: "CMAKE_C_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/Балбес/Desktop/учебка/c++_opengl_уроки/SimpleEngine/build/CMakeFiles/CMakeScratch/TryCompile-ybbwht'
+        Change Dir: 'C:/Users/Балбес/Desktop/учебка/c++_opengl_уроки/SimpleEngine/build/CMakeFiles/CMakeScratch/TryCompile-smdsr4'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_f4253.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_242df.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
         Версия MSBuild 17.7.2+d6990bcfa для .NET Framework
-        Сборка начата 04.09.2024 21:23:51.
+        Сборка начата 05.09.2024 1:03:01.
         
-        Проект "C:\\Users\\Балбес\\Desktop\\учебка\\c++_opengl_уроки\\SimpleEngine\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ybbwht\\cmTC_f4253.vcxproj" в узле 1 (целевые объекты по умолчанию).
+        Проект "C:\\Users\\Балбес\\Desktop\\учебка\\c++_opengl_уроки\\SimpleEngine\\build\\CMakeFiles\\CMakeScratch\\TryCompile-smdsr4\\cmTC_242df.vcxproj" в узле 1 (целевые объекты по умолчанию).
         PrepareForBuild:
-          Создание каталога "cmTC_f4253.dir\\Debug\\".
-          Создание каталога "C:\\Users\\Балбес\\Desktop\\учебка\\c++_opengl_уроки\\SimpleEngine\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ybbwht\\Debug\\".
-          Создание каталога "cmTC_f4253.dir\\Debug\\cmTC_f4253.tlog\\".
+          Создание каталога "cmTC_242df.dir\\Debug\\".
+          Создание каталога "C:\\Users\\Балбес\\Desktop\\учебка\\c++_opengl_уроки\\SimpleEngine\\build\\CMakeFiles\\CMakeScratch\\TryCompile-smdsr4\\Debug\\".
+          Создание каталога "cmTC_242df.dir\\Debug\\cmTC_242df.tlog\\".
         InitializeBuildStatus:
-          Создание "cmTC_f4253.dir\\Debug\\cmTC_f4253.tlog\\unsuccessfulbuild", так как было задано "AlwaysCreate".
-          Обращение к "cmTC_f4253.dir\\Debug\\cmTC_f4253.tlog\\unsuccessfulbuild".
+          Создание "cmTC_242df.dir\\Debug\\cmTC_242df.tlog\\unsuccessfulbuild", так как было задано "AlwaysCreate".
+          Обращение к "cmTC_242df.dir\\Debug\\cmTC_242df.tlog\\unsuccessfulbuild".
         ClCompile:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_f4253.dir\\Debug\\\\" /Fd"cmTC_f4253.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.30\\Modules\\CMakeCCompilerABI.c"
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_242df.dir\\Debug\\\\" /Fd"cmTC_242df.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.30\\Modules\\CMakeCCompilerABI.c"
           Оптимизирующий компилятор Microsoft (R) C/C++ версии 19.37.32824 для x64
           CMakeCCompilerABI.c
           (C) Корпорация Майкрософт (Microsoft Corporation).  Все права защищены.
-          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_f4253.dir\\Debug\\\\" /Fd"cmTC_f4253.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.30\\Modules\\CMakeCCompilerABI.c"
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_242df.dir\\Debug\\\\" /Fd"cmTC_242df.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.30\\Modules\\CMakeCCompilerABI.c"
         Link:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\Балбес\\Desktop\\учебка\\c++_opengl_уроки\\SimpleEngine\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ybbwht\\Debug\\cmTC_f4253.exe" /INCREMENTAL /ILK:"cmTC_f4253.dir\\Debug\\cmTC_f4253.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Балбес/Desktop/учебка/c++_opengl_уроки/SimpleEngine/build/CMakeFiles/CMakeScratch/TryCompile-ybbwht/Debug/cmTC_f4253.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/Балбес/Desktop/учебка/c++_opengl_уроки/SimpleEngine/build/CMakeFiles/CMakeScratch/TryCompile-ybbwht/Debug/cmTC_f4253.lib" /MACHINE:X64  /machine:x64 cmTC_f4253.dir\\Debug\\CMakeCCompilerABI.obj
-          cmTC_f4253.vcxproj -> C:\\Users\\Балбес\\Desktop\\учебка\\c++_opengl_уроки\\SimpleEngine\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ybbwht\\Debug\\cmTC_f4253.exe
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\Балбес\\Desktop\\учебка\\c++_opengl_уроки\\SimpleEngine\\build\\CMakeFiles\\CMakeScratch\\TryCompile-smdsr4\\Debug\\cmTC_242df.exe" /INCREMENTAL /ILK:"cmTC_242df.dir\\Debug\\cmTC_242df.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Балбес/Desktop/учебка/c++_opengl_уроки/SimpleEngine/build/CMakeFiles/CMakeScratch/TryCompile-smdsr4/Debug/cmTC_242df.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/Балбес/Desktop/учебка/c++_opengl_уроки/SimpleEngine/build/CMakeFiles/CMakeScratch/TryCompile-smdsr4/Debug/cmTC_242df.lib" /MACHINE:X64  /machine:x64 cmTC_242df.dir\\Debug\\CMakeCCompilerABI.obj
+          cmTC_242df.vcxproj -> C:\\Users\\Балбес\\Desktop\\учебка\\c++_opengl_уроки\\SimpleEngine\\build\\CMakeFiles\\CMakeScratch\\TryCompile-smdsr4\\Debug\\cmTC_242df.exe
         FinalizeBuildStatus:
-          Файл "cmTC_f4253.dir\\Debug\\cmTC_f4253.tlog\\unsuccessfulbuild" удаляется.
-          Обращение к "cmTC_f4253.dir\\Debug\\cmTC_f4253.tlog\\cmTC_f4253.lastbuildstate".
-        Сборка проекта "C:\\Users\\Балбес\\Desktop\\учебка\\c++_opengl_уроки\\SimpleEngine\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ybbwht\\cmTC_f4253.vcxproj" завершена (целевые объекты по умолчанию).
+          Файл "cmTC_242df.dir\\Debug\\cmTC_242df.tlog\\unsuccessfulbuild" удаляется.
+          Обращение к "cmTC_242df.dir\\Debug\\cmTC_242df.tlog\\cmTC_242df.lastbuildstate".
+        Сборка проекта "C:\\Users\\Балбес\\Desktop\\учебка\\c++_opengl_уроки\\SimpleEngine\\build\\CMakeFiles\\CMakeScratch\\TryCompile-smdsr4\\cmTC_242df.vcxproj" завершена (целевые объекты по умолчанию).
         
         Сборка успешно завершена.
             Предупреждений: 0
             Ошибок: 0
         
-        Прошло времени 00:00:00.41
+        Прошло времени 00:00:00.42
         
       exitCode: 0
   -
@@ -205,8 +205,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "C:/Users/\u0411\u0430\u043b\u0431\u0435\u0441/Desktop/\u0443\u0447\u0435\u0431\u043a\u0430/c++_opengl_\u0443\u0440\u043e\u043a\u0438/SimpleEngine/build/CMakeFiles/CMakeScratch/TryCompile-bq6gx8"
-      binary: "C:/Users/\u0411\u0430\u043b\u0431\u0435\u0441/Desktop/\u0443\u0447\u0435\u0431\u043a\u0430/c++_opengl_\u0443\u0440\u043e\u043a\u0438/SimpleEngine/build/CMakeFiles/CMakeScratch/TryCompile-bq6gx8"
+      source: "C:/Users/\u0411\u0430\u043b\u0431\u0435\u0441/Desktop/\u0443\u0447\u0435\u0431\u043a\u0430/c++_opengl_\u0443\u0440\u043e\u043a\u0438/SimpleEngine/build/CMakeFiles/CMakeScratch/TryCompile-e1t2dh"
+      binary: "C:/Users/\u0411\u0430\u043b\u0431\u0435\u0441/Desktop/\u0443\u0447\u0435\u0431\u043a\u0430/c++_opengl_\u0443\u0440\u043e\u043a\u0438/SimpleEngine/build/CMakeFiles/CMakeScratch/TryCompile-e1t2dh"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /W3 /GR /EHsc"
       CMAKE_CXX_SCAN_FOR_MODULES: "OFF"
@@ -214,39 +214,39 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/Балбес/Desktop/учебка/c++_opengl_уроки/SimpleEngine/build/CMakeFiles/CMakeScratch/TryCompile-bq6gx8'
+        Change Dir: 'C:/Users/Балбес/Desktop/учебка/c++_opengl_уроки/SimpleEngine/build/CMakeFiles/CMakeScratch/TryCompile-e1t2dh'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_85948.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_23dfc.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
         Версия MSBuild 17.7.2+d6990bcfa для .NET Framework
-        Сборка начата 04.09.2024 21:23:52.
+        Сборка начата 05.09.2024 1:03:01.
         
-        Проект "C:\\Users\\Балбес\\Desktop\\учебка\\c++_opengl_уроки\\SimpleEngine\\build\\CMakeFiles\\CMakeScratch\\TryCompile-bq6gx8\\cmTC_85948.vcxproj" в узле 1 (целевые объекты по умолчанию).
+        Проект "C:\\Users\\Балбес\\Desktop\\учебка\\c++_opengl_уроки\\SimpleEngine\\build\\CMakeFiles\\CMakeScratch\\TryCompile-e1t2dh\\cmTC_23dfc.vcxproj" в узле 1 (целевые объекты по умолчанию).
         PrepareForBuild:
-          Создание каталога "cmTC_85948.dir\\Debug\\".
-          Создание каталога "C:\\Users\\Балбес\\Desktop\\учебка\\c++_opengl_уроки\\SimpleEngine\\build\\CMakeFiles\\CMakeScratch\\TryCompile-bq6gx8\\Debug\\".
-          Создание каталога "cmTC_85948.dir\\Debug\\cmTC_85948.tlog\\".
+          Создание каталога "cmTC_23dfc.dir\\Debug\\".
+          Создание каталога "C:\\Users\\Балбес\\Desktop\\учебка\\c++_opengl_уроки\\SimpleEngine\\build\\CMakeFiles\\CMakeScratch\\TryCompile-e1t2dh\\Debug\\".
+          Создание каталога "cmTC_23dfc.dir\\Debug\\cmTC_23dfc.tlog\\".
         InitializeBuildStatus:
-          Создание "cmTC_85948.dir\\Debug\\cmTC_85948.tlog\\unsuccessfulbuild", так как было задано "AlwaysCreate".
-          Обращение к "cmTC_85948.dir\\Debug\\cmTC_85948.tlog\\unsuccessfulbuild".
+          Создание "cmTC_23dfc.dir\\Debug\\cmTC_23dfc.tlog\\unsuccessfulbuild", так как было задано "AlwaysCreate".
+          Обращение к "cmTC_23dfc.dir\\Debug\\cmTC_23dfc.tlog\\unsuccessfulbuild".
         ClCompile:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_85948.dir\\Debug\\\\" /Fd"cmTC_85948.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.30\\Modules\\CMakeCXXCompilerABI.cpp"
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_23dfc.dir\\Debug\\\\" /Fd"cmTC_23dfc.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.30\\Modules\\CMakeCXXCompilerABI.cpp"
           Оптимизирующий компилятор Microsoft (R) C/C++ версии 19.37.32824 для x64
-          (C) Корпорация Майкрософт (Microsoft Corporation).  Все права защищены.
           CMakeCXXCompilerABI.cpp
-          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_85948.dir\\Debug\\\\" /Fd"cmTC_85948.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.30\\Modules\\CMakeCXXCompilerABI.cpp"
+          (C) Корпорация Майкрософт (Microsoft Corporation).  Все права защищены.
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_23dfc.dir\\Debug\\\\" /Fd"cmTC_23dfc.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.30\\Modules\\CMakeCXXCompilerABI.cpp"
         Link:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\Балбес\\Desktop\\учебка\\c++_opengl_уроки\\SimpleEngine\\build\\CMakeFiles\\CMakeScratch\\TryCompile-bq6gx8\\Debug\\cmTC_85948.exe" /INCREMENTAL /ILK:"cmTC_85948.dir\\Debug\\cmTC_85948.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Балбес/Desktop/учебка/c++_opengl_уроки/SimpleEngine/build/CMakeFiles/CMakeScratch/TryCompile-bq6gx8/Debug/cmTC_85948.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/Балбес/Desktop/учебка/c++_opengl_уроки/SimpleEngine/build/CMakeFiles/CMakeScratch/TryCompile-bq6gx8/Debug/cmTC_85948.lib" /MACHINE:X64  /machine:x64 cmTC_85948.dir\\Debug\\CMakeCXXCompilerABI.obj
-          cmTC_85948.vcxproj -> C:\\Users\\Балбес\\Desktop\\учебка\\c++_opengl_уроки\\SimpleEngine\\build\\CMakeFiles\\CMakeScratch\\TryCompile-bq6gx8\\Debug\\cmTC_85948.exe
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\Балбес\\Desktop\\учебка\\c++_opengl_уроки\\SimpleEngine\\build\\CMakeFiles\\CMakeScratch\\TryCompile-e1t2dh\\Debug\\cmTC_23dfc.exe" /INCREMENTAL /ILK:"cmTC_23dfc.dir\\Debug\\cmTC_23dfc.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Балбес/Desktop/учебка/c++_opengl_уроки/SimpleEngine/build/CMakeFiles/CMakeScratch/TryCompile-e1t2dh/Debug/cmTC_23dfc.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/Балбес/Desktop/учебка/c++_opengl_уроки/SimpleEngine/build/CMakeFiles/CMakeScratch/TryCompile-e1t2dh/Debug/cmTC_23dfc.lib" /MACHINE:X64  /machine:x64 cmTC_23dfc.dir\\Debug\\CMakeCXXCompilerABI.obj
+          cmTC_23dfc.vcxproj -> C:\\Users\\Балбес\\Desktop\\учебка\\c++_opengl_уроки\\SimpleEngine\\build\\CMakeFiles\\CMakeScratch\\TryCompile-e1t2dh\\Debug\\cmTC_23dfc.exe
         FinalizeBuildStatus:
-          Файл "cmTC_85948.dir\\Debug\\cmTC_85948.tlog\\unsuccessfulbuild" удаляется.
-          Обращение к "cmTC_85948.dir\\Debug\\cmTC_85948.tlog\\cmTC_85948.lastbuildstate".
-        Сборка проекта "C:\\Users\\Балбес\\Desktop\\учебка\\c++_opengl_уроки\\SimpleEngine\\build\\CMakeFiles\\CMakeScratch\\TryCompile-bq6gx8\\cmTC_85948.vcxproj" завершена (целевые объекты по умолчанию).
+          Файл "cmTC_23dfc.dir\\Debug\\cmTC_23dfc.tlog\\unsuccessfulbuild" удаляется.
+          Обращение к "cmTC_23dfc.dir\\Debug\\cmTC_23dfc.tlog\\cmTC_23dfc.lastbuildstate".
+        Сборка проекта "C:\\Users\\Балбес\\Desktop\\учебка\\c++_opengl_уроки\\SimpleEngine\\build\\CMakeFiles\\CMakeScratch\\TryCompile-e1t2dh\\cmTC_23dfc.vcxproj" завершена (целевые объекты по умолчанию).
         
         Сборка успешно завершена.
             Предупреждений: 0
             Ошибок: 0
         
-        Прошло времени 00:00:00.43
+        Прошло времени 00:00:00.42
         
       exitCode: 0
   -
@@ -277,4 +277,177 @@ events:
       Running the CXX compiler's linker: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.37.32822/bin/HostX64/x64/link.exe" "-v"
       Microsoft (R) Incremental Linker Version 14.37.32824.0
       Copyright (C) Microsoft Corporation.  All rights reserved.
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.30/Modules/Internal/CheckSourceCompiles.cmake:101 (try_compile)"
+      - "C:/Program Files/CMake/share/cmake-3.30/Modules/CheckCSourceCompiles.cmake:52 (cmake_check_source_compiles)"
+      - "C:/Program Files/CMake/share/cmake-3.30/Modules/FindThreads.cmake:97 (CHECK_C_SOURCE_COMPILES)"
+      - "C:/Program Files/CMake/share/cmake-3.30/Modules/FindThreads.cmake:163 (_threads_check_libc)"
+      - "external/glfw/CMakeLists.txt:60 (find_package)"
+    checks:
+      - "Performing Test CMAKE_HAVE_LIBC_PTHREAD"
+    directories:
+      source: "C:/Users/\u0411\u0430\u043b\u0431\u0435\u0441/Desktop/\u0443\u0447\u0435\u0431\u043a\u0430/c++_opengl_\u0443\u0440\u043e\u043a\u0438/SimpleEngine/build/CMakeFiles/CMakeScratch/TryCompile-2dt4kc"
+      binary: "C:/Users/\u0411\u0430\u043b\u0431\u0435\u0441/Desktop/\u0443\u0447\u0435\u0431\u043a\u0430/c++_opengl_\u0443\u0440\u043e\u043a\u0438/SimpleEngine/build/CMakeFiles/CMakeScratch/TryCompile-2dt4kc"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/\u0411\u0430\u043b\u0431\u0435\u0441/Desktop/\u0443\u0447\u0435\u0431\u043a\u0430/c++_opengl_\u0443\u0440\u043e\u043a\u0438/SimpleEngine/external/glfw/CMake/modules"
+    buildResult:
+      variable: "CMAKE_HAVE_LIBC_PTHREAD"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/Балбес/Desktop/учебка/c++_opengl_уроки/SimpleEngine/build/CMakeFiles/CMakeScratch/TryCompile-2dt4kc'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_78a90.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        Версия MSBuild 17.7.2+d6990bcfa для .NET Framework
+        Сборка начата 05.09.2024 1:03:02.
+        
+        Проект "C:\\Users\\Балбес\\Desktop\\учебка\\c++_opengl_уроки\\SimpleEngine\\build\\CMakeFiles\\CMakeScratch\\TryCompile-2dt4kc\\cmTC_78a90.vcxproj" в узле 1 (целевые объекты по умолчанию).
+        PrepareForBuild:
+          Создание каталога "cmTC_78a90.dir\\Debug\\".
+          Создание каталога "C:\\Users\\Балбес\\Desktop\\учебка\\c++_opengl_уроки\\SimpleEngine\\build\\CMakeFiles\\CMakeScratch\\TryCompile-2dt4kc\\Debug\\".
+          Создание каталога "cmTC_78a90.dir\\Debug\\cmTC_78a90.tlog\\".
+        InitializeBuildStatus:
+          Создание "cmTC_78a90.dir\\Debug\\cmTC_78a90.tlog\\unsuccessfulbuild", так как было задано "AlwaysCreate".
+          Обращение к "cmTC_78a90.dir\\Debug\\cmTC_78a90.tlog\\unsuccessfulbuild".
+        ClCompile:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CMAKE_HAVE_LIBC_PTHREAD /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_78a90.dir\\Debug\\\\" /Fd"cmTC_78a90.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\Балбес\\Desktop\\учебка\\c++_opengl_уроки\\SimpleEngine\\build\\CMakeFiles\\CMakeScratch\\TryCompile-2dt4kc\\src.c"
+          Оптимизирующий компилятор Microsoft (R) C/C++ версии 19.37.32824 для x64
+          src.c
+          (C) Корпорация Майкрософт (Microsoft Corporation).  Все права защищены.
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CMAKE_HAVE_LIBC_PTHREAD /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_78a90.dir\\Debug\\\\" /Fd"cmTC_78a90.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\Балбес\\Desktop\\учебка\\c++_opengl_уроки\\SimpleEngine\\build\\CMakeFiles\\CMakeScratch\\TryCompile-2dt4kc\\src.c"
+        C:\\Users\\Балбес\\Desktop\\учебка\\c++_opengl_уроки\\SimpleEngine\\build\\CMakeFiles\\CMakeScratch\\TryCompile-2dt4kc\\src.c(1,10): fatal  error C1083: Не удается открыть файл включение: pthread.h: No such file or directory, [C:\\Users\\Балбес\\Desktop\\учебка\\c++_opengl_уроки\\SimpleEngine\\build\\CMakeFiles\\CMakeScratch\\TryCompile-2dt4kc\\cmTC_78a90.vcxproj]
+        Сборка проекта "C:\\Users\\Балбес\\Desktop\\учебка\\c++_opengl_уроки\\SimpleEngine\\build\\CMakeFiles\\CMakeScratch\\TryCompile-2dt4kc\\cmTC_78a90.vcxproj" завершена (целевые объекты по умолчанию) с ошибкой.
+        
+        Ошибка сборки.
+        
+        "C:\\Users\\Балбес\\Desktop\\учебка\\c++_opengl_уроки\\SimpleEngine\\build\\CMakeFiles\\CMakeScratch\\TryCompile-2dt4kc\\cmTC_78a90.vcxproj" (целевой объект по умолчанию) (1) ->
+        (Целевой объект ClCompile) -> 
+          C:\\Users\\Балбес\\Desktop\\учебка\\c++_opengl_уроки\\SimpleEngine\\build\\CMakeFiles\\CMakeScratch\\TryCompile-2dt4kc\\src.c(1,10): fatal  error C1083: Не удается открыть файл включение: pthread.h: No such file or directory, [C:\\Users\\Балбес\\Desktop\\учебка\\c++_opengl_уроки\\SimpleEngine\\build\\CMakeFiles\\CMakeScratch\\TryCompile-2dt4kc\\cmTC_78a90.vcxproj]
+        
+            Предупреждений: 0
+            Ошибок: 1
+        
+        Прошло времени 00:00:00.29
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.30/Modules/CheckLibraryExists.cmake:69 (try_compile)"
+      - "C:/Program Files/CMake/share/cmake-3.30/Modules/FindThreads.cmake:112 (CHECK_LIBRARY_EXISTS)"
+      - "C:/Program Files/CMake/share/cmake-3.30/Modules/FindThreads.cmake:175 (_threads_check_lib)"
+      - "external/glfw/CMakeLists.txt:60 (find_package)"
+    checks:
+      - "Looking for pthread_create in pthreads"
+    directories:
+      source: "C:/Users/\u0411\u0430\u043b\u0431\u0435\u0441/Desktop/\u0443\u0447\u0435\u0431\u043a\u0430/c++_opengl_\u0443\u0440\u043e\u043a\u0438/SimpleEngine/build/CMakeFiles/CMakeScratch/TryCompile-m7j133"
+      binary: "C:/Users/\u0411\u0430\u043b\u0431\u0435\u0441/Desktop/\u0443\u0447\u0435\u0431\u043a\u0430/c++_opengl_\u0443\u0440\u043e\u043a\u0438/SimpleEngine/build/CMakeFiles/CMakeScratch/TryCompile-m7j133"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/\u0411\u0430\u043b\u0431\u0435\u0441/Desktop/\u0443\u0447\u0435\u0431\u043a\u0430/c++_opengl_\u0443\u0440\u043e\u043a\u0438/SimpleEngine/external/glfw/CMake/modules"
+    buildResult:
+      variable: "CMAKE_HAVE_PTHREADS_CREATE"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/Балбес/Desktop/учебка/c++_opengl_уроки/SimpleEngine/build/CMakeFiles/CMakeScratch/TryCompile-m7j133'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_05ad4.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        Версия MSBuild 17.7.2+d6990bcfa для .NET Framework
+        Сборка начата 05.09.2024 1:03:03.
+        
+        Проект "C:\\Users\\Балбес\\Desktop\\учебка\\c++_opengl_уроки\\SimpleEngine\\build\\CMakeFiles\\CMakeScratch\\TryCompile-m7j133\\cmTC_05ad4.vcxproj" в узле 1 (целевые объекты по умолчанию).
+        PrepareForBuild:
+          Создание каталога "cmTC_05ad4.dir\\Debug\\".
+          Создание каталога "C:\\Users\\Балбес\\Desktop\\учебка\\c++_opengl_уроки\\SimpleEngine\\build\\CMakeFiles\\CMakeScratch\\TryCompile-m7j133\\Debug\\".
+          Создание каталога "cmTC_05ad4.dir\\Debug\\cmTC_05ad4.tlog\\".
+        InitializeBuildStatus:
+          Создание "cmTC_05ad4.dir\\Debug\\cmTC_05ad4.tlog\\unsuccessfulbuild", так как было задано "AlwaysCreate".
+          Обращение к "cmTC_05ad4.dir\\Debug\\cmTC_05ad4.tlog\\unsuccessfulbuild".
+        ClCompile:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=pthread_create /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_05ad4.dir\\Debug\\\\" /Fd"cmTC_05ad4.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\Балбес\\Desktop\\учебка\\c++_opengl_уроки\\SimpleEngine\\build\\CMakeFiles\\CMakeScratch\\TryCompile-m7j133\\CheckFunctionExists.c"
+          Оптимизирующий компилятор Microsoft (R) C/C++ версии 19.37.32824 для x64
+          CheckFunctionExists.c
+          (C) Корпорация Майкрософт (Microsoft Corporation).  Все права защищены.
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=pthread_create /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_05ad4.dir\\Debug\\\\" /Fd"cmTC_05ad4.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\Балбес\\Desktop\\учебка\\c++_opengl_уроки\\SimpleEngine\\build\\CMakeFiles\\CMakeScratch\\TryCompile-m7j133\\CheckFunctionExists.c"
+        Link:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\Балбес\\Desktop\\учебка\\c++_opengl_уроки\\SimpleEngine\\build\\CMakeFiles\\CMakeScratch\\TryCompile-m7j133\\Debug\\cmTC_05ad4.exe" /INCREMENTAL /ILK:"cmTC_05ad4.dir\\Debug\\cmTC_05ad4.ilk" /NOLOGO pthreads.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Балбес/Desktop/учебка/c++_opengl_уроки/SimpleEngine/build/CMakeFiles/CMakeScratch/TryCompile-m7j133/Debug/cmTC_05ad4.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/Балбес/Desktop/учебка/c++_opengl_уроки/SimpleEngine/build/CMakeFiles/CMakeScratch/TryCompile-m7j133/Debug/cmTC_05ad4.lib" /MACHINE:X64  /machine:x64 cmTC_05ad4.dir\\Debug\\CheckFunctionExists.obj
+        LINK : fatal error LNK1104: не удается открыть файл "pthreads.lib" [C:\\Users\\Балбес\\Desktop\\учебка\\c++_opengl_уроки\\SimpleEngine\\build\\CMakeFiles\\CMakeScratch\\TryCompile-m7j133\\cmTC_05ad4.vcxproj]
+        Сборка проекта "C:\\Users\\Балбес\\Desktop\\учебка\\c++_opengl_уроки\\SimpleEngine\\build\\CMakeFiles\\CMakeScratch\\TryCompile-m7j133\\cmTC_05ad4.vcxproj" завершена (целевые объекты по умолчанию) с ошибкой.
+        
+        Ошибка сборки.
+        
+        "C:\\Users\\Балбес\\Desktop\\учебка\\c++_opengl_уроки\\SimpleEngine\\build\\CMakeFiles\\CMakeScratch\\TryCompile-m7j133\\cmTC_05ad4.vcxproj" (целевой объект по умолчанию) (1) ->
+        (Целевой объект Link) -> 
+          LINK : fatal error LNK1104: не удается открыть файл "pthreads.lib" [C:\\Users\\Балбес\\Desktop\\учебка\\c++_opengl_уроки\\SimpleEngine\\build\\CMakeFiles\\CMakeScratch\\TryCompile-m7j133\\cmTC_05ad4.vcxproj]
+        
+            Предупреждений: 0
+            Ошибок: 1
+        
+        Прошло времени 00:00:00.37
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.30/Modules/CheckLibraryExists.cmake:69 (try_compile)"
+      - "C:/Program Files/CMake/share/cmake-3.30/Modules/FindThreads.cmake:112 (CHECK_LIBRARY_EXISTS)"
+      - "C:/Program Files/CMake/share/cmake-3.30/Modules/FindThreads.cmake:176 (_threads_check_lib)"
+      - "external/glfw/CMakeLists.txt:60 (find_package)"
+    checks:
+      - "Looking for pthread_create in pthread"
+    directories:
+      source: "C:/Users/\u0411\u0430\u043b\u0431\u0435\u0441/Desktop/\u0443\u0447\u0435\u0431\u043a\u0430/c++_opengl_\u0443\u0440\u043e\u043a\u0438/SimpleEngine/build/CMakeFiles/CMakeScratch/TryCompile-gu0jvx"
+      binary: "C:/Users/\u0411\u0430\u043b\u0431\u0435\u0441/Desktop/\u0443\u0447\u0435\u0431\u043a\u0430/c++_opengl_\u0443\u0440\u043e\u043a\u0438/SimpleEngine/build/CMakeFiles/CMakeScratch/TryCompile-gu0jvx"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/\u0411\u0430\u043b\u0431\u0435\u0441/Desktop/\u0443\u0447\u0435\u0431\u043a\u0430/c++_opengl_\u0443\u0440\u043e\u043a\u0438/SimpleEngine/external/glfw/CMake/modules"
+    buildResult:
+      variable: "CMAKE_HAVE_PTHREAD_CREATE"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/Балбес/Desktop/учебка/c++_opengl_уроки/SimpleEngine/build/CMakeFiles/CMakeScratch/TryCompile-gu0jvx'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_d4247.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        Версия MSBuild 17.7.2+d6990bcfa для .NET Framework
+        Сборка начата 05.09.2024 1:03:03.
+        
+        Проект "C:\\Users\\Балбес\\Desktop\\учебка\\c++_opengl_уроки\\SimpleEngine\\build\\CMakeFiles\\CMakeScratch\\TryCompile-gu0jvx\\cmTC_d4247.vcxproj" в узле 1 (целевые объекты по умолчанию).
+        PrepareForBuild:
+          Создание каталога "cmTC_d4247.dir\\Debug\\".
+          Создание каталога "C:\\Users\\Балбес\\Desktop\\учебка\\c++_opengl_уроки\\SimpleEngine\\build\\CMakeFiles\\CMakeScratch\\TryCompile-gu0jvx\\Debug\\".
+          Создание каталога "cmTC_d4247.dir\\Debug\\cmTC_d4247.tlog\\".
+        InitializeBuildStatus:
+          Создание "cmTC_d4247.dir\\Debug\\cmTC_d4247.tlog\\unsuccessfulbuild", так как было задано "AlwaysCreate".
+          Обращение к "cmTC_d4247.dir\\Debug\\cmTC_d4247.tlog\\unsuccessfulbuild".
+        ClCompile:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=pthread_create /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_d4247.dir\\Debug\\\\" /Fd"cmTC_d4247.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\Балбес\\Desktop\\учебка\\c++_opengl_уроки\\SimpleEngine\\build\\CMakeFiles\\CMakeScratch\\TryCompile-gu0jvx\\CheckFunctionExists.c"
+          Оптимизирующий компилятор Microsoft (R) C/C++ версии 19.37.32824 для x64
+          CheckFunctionExists.c
+          (C) Корпорация Майкрософт (Microsoft Corporation).  Все права защищены.
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=pthread_create /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_d4247.dir\\Debug\\\\" /Fd"cmTC_d4247.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\Балбес\\Desktop\\учебка\\c++_opengl_уроки\\SimpleEngine\\build\\CMakeFiles\\CMakeScratch\\TryCompile-gu0jvx\\CheckFunctionExists.c"
+        Link:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\Балбес\\Desktop\\учебка\\c++_opengl_уроки\\SimpleEngine\\build\\CMakeFiles\\CMakeScratch\\TryCompile-gu0jvx\\Debug\\cmTC_d4247.exe" /INCREMENTAL /ILK:"cmTC_d4247.dir\\Debug\\cmTC_d4247.ilk" /NOLOGO pthread.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Балбес/Desktop/учебка/c++_opengl_уроки/SimpleEngine/build/CMakeFiles/CMakeScratch/TryCompile-gu0jvx/Debug/cmTC_d4247.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/Балбес/Desktop/учебка/c++_opengl_уроки/SimpleEngine/build/CMakeFiles/CMakeScratch/TryCompile-gu0jvx/Debug/cmTC_d4247.lib" /MACHINE:X64  /machine:x64 cmTC_d4247.dir\\Debug\\CheckFunctionExists.obj
+        LINK : fatal error LNK1104: не удается открыть файл "pthread.lib" [C:\\Users\\Балбес\\Desktop\\учебка\\c++_opengl_уроки\\SimpleEngine\\build\\CMakeFiles\\CMakeScratch\\TryCompile-gu0jvx\\cmTC_d4247.vcxproj]
+        Сборка проекта "C:\\Users\\Балбес\\Desktop\\учебка\\c++_opengl_уроки\\SimpleEngine\\build\\CMakeFiles\\CMakeScratch\\TryCompile-gu0jvx\\cmTC_d4247.vcxproj" завершена (целевые объекты по умолчанию) с ошибкой.
+        
+        Ошибка сборки.
+        
+        "C:\\Users\\Балбес\\Desktop\\учебка\\c++_opengl_уроки\\SimpleEngine\\build\\CMakeFiles\\CMakeScratch\\TryCompile-gu0jvx\\cmTC_d4247.vcxproj" (целевой объект по умолчанию) (1) ->
+        (Целевой объект Link) -> 
+          LINK : fatal error LNK1104: не удается открыть файл "pthread.lib" [C:\\Users\\Балбес\\Desktop\\учебка\\c++_opengl_уроки\\SimpleEngine\\build\\CMakeFiles\\CMakeScratch\\TryCompile-gu0jvx\\cmTC_d4247.vcxproj]
+        
+            Предупреждений: 0
+            Ошибок: 1
+        
+        Прошло времени 00:00:00.34
+        
+      exitCode: 1
 ...

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Балбес\Desktop\учебка\c++_opengl_уроки\SimpleEngine\build\CMakeFiles\17d2e15d6b011cf9090d6756f6808b63\uninstall.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Балбес\Desktop\учебка\c++_opengl_уроки\SimpleEngine\external\glfw\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Балбес\Desktop\учебка\c++_opengl_уроки\SimpleEngine\build\SimpleEngineCore\glfw\CMakeFiles\uninstall" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{0422566D-B869-36B1-83AF-84C797241C0C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

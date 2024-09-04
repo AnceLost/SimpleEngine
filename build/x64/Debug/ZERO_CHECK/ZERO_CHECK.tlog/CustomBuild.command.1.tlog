@@ -1,0 +1,10 @@
+^C:\USERS\БАЛБЕС\DESKTOP\УЧЕБКА\C++_OPENGL_УРОКИ\SIMPLEENGINE\BUILD\CMAKEFILES\2A25A3B623E618CD9F528094323EC07E\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Балбес/Desktop/учебка/c++_opengl_уроки/SimpleEngine -BC:/Users/Балбес/Desktop/учебка/c++_opengl_уроки/SimpleEngine/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Балбес/Desktop/учебка/c++_opengl_уроки/SimpleEngine/build/Project.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

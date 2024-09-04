@@ -1,4 +1,14 @@
+C:/Users/Балбес/Desktop/учебка/c++_opengl_уроки/SimpleEngine/build/CMakeFiles/INSTALL.dir
 C:/Users/Балбес/Desktop/учебка/c++_opengl_уроки/SimpleEngine/build/CMakeFiles/ALL_BUILD.dir
 C:/Users/Балбес/Desktop/учебка/c++_opengl_уроки/SimpleEngine/build/CMakeFiles/ZERO_CHECK.dir
 C:/Users/Балбес/Desktop/учебка/c++_opengl_уроки/SimpleEngine/build/SimpleEngineCore/CMakeFiles/SimpleEngineCore.dir
+C:/Users/Балбес/Desktop/учебка/c++_opengl_уроки/SimpleEngine/build/SimpleEngineCore/CMakeFiles/INSTALL.dir
+C:/Users/Балбес/Desktop/учебка/c++_opengl_уроки/SimpleEngine/build/SimpleEngineCore/glfw/CMakeFiles/uninstall.dir
+C:/Users/Балбес/Desktop/учебка/c++_opengl_уроки/SimpleEngine/build/SimpleEngineCore/glfw/CMakeFiles/INSTALL.dir
+C:/Users/Балбес/Desktop/учебка/c++_opengl_уроки/SimpleEngine/build/SimpleEngineCore/glfw/CMakeFiles/ALL_BUILD.dir
+C:/Users/Балбес/Desktop/учебка/c++_opengl_уроки/SimpleEngine/build/SimpleEngineCore/glfw/src/CMakeFiles/glfw.dir
+C:/Users/Балбес/Desktop/учебка/c++_opengl_уроки/SimpleEngine/build/SimpleEngineCore/glfw/src/CMakeFiles/update_mappings.dir
+C:/Users/Балбес/Desktop/учебка/c++_opengl_уроки/SimpleEngine/build/SimpleEngineCore/glfw/src/CMakeFiles/INSTALL.dir
+C:/Users/Балбес/Desktop/учебка/c++_opengl_уроки/SimpleEngine/build/SimpleEngineCore/glfw/docs/CMakeFiles/INSTALL.dir
 C:/Users/Балбес/Desktop/учебка/c++_opengl_уроки/SimpleEngine/build/SimpleEngineEditor/CMakeFiles/SimpleEngineEditor.dir
+C:/Users/Балбес/Desktop/учебка/c++_opengl_уроки/SimpleEngine/build/SimpleEngineEditor/CMakeFiles/INSTALL.dir
