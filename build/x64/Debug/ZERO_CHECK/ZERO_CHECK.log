@@ -26,6 +26,8 @@
   -- Including Win32 support
   -- Could NOT find Doxygen (missing: DOXYGEN_EXECUTABLE) 
   -- Documentation generation requires Doxygen 1.9.8 or later
+  -- Build spdlog: 1.14.1
+  -- Build type: 
   -- Configuring done (0.1s)
   -- Generating done (0.4s)
   -- Build files have been written to: C:/Users/╨С╨░╨╗╨▒╨╡╤Б/Desktop/╤Г╤З╨╡╨▒╨║╨░/c++_opengl_╤Г╤А╨╛╨║╨╕/SimpleEngine/build

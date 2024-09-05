@@ -1,4 +1,5 @@
 #include "SimpleEngineCore/Application.hpp"
+#include "SimpleEngineCore/Log.hpp"
 
 #include <iostream>
 
@@ -8,7 +9,10 @@ namespace SimpleEngine
 {
 	Application::Application()
 	{
-
+        LOG_INFO("Welcome ot spdlog!");
+        LOG_ERROR("Some error message with arg: {}", 1);
+        LOG_WARN("Easy padding in numbers like {:08d}", 12);
+        LOG_CRIT("Support for int: {0:d}; hex: {0:x}; oct: {0:o}; bin: {0.b}", 42);
 	}
 	Application::~Application()
 	{

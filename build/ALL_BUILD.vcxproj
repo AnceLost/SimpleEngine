@@ -185,6 +185,10 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
       <Project>{EDD5E903-D2AA-3526-86A0-DF32A5C5EFB1}</Project>
       <Name>glfw</Name>
     </ProjectReference>
+    <ProjectReference Include="C:\Users\Балбес\Desktop\учебка\c++_opengl_уроки\SimpleEngine\build\SimpleEngineCore\spdlog\spdlog.vcxproj">
+      <Project>{A5770897-6069-3664-AF53-0C7EE38E4FCD}</Project>
+      <Name>spdlog</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

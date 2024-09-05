@@ -35,6 +35,7 @@ endif()
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   include("C:/Users/Балбес/Desktop/учебка/c++_opengl_уроки/SimpleEngine/build/SimpleEngineCore/glfw/cmake_install.cmake")
+  include("C:/Users/Балбес/Desktop/учебка/c++_opengl_уроки/SimpleEngine/build/SimpleEngineCore/spdlog/cmake_install.cmake")
 
 endif()
 

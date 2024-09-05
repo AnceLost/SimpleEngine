@@ -7,9 +7,8 @@ class MyApp : public SimpleEngine::Application
 {
     void on_update() override
     {
-        std::cout << "Update frame: " << frame++ << std::endl;
+        
     }
-    int frame = 0;
 };
 
 int main()

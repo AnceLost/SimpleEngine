@@ -1,0 +1,11 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.30/Modules/CheckCSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/CheckIncludeFile.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/CheckLibraryExists.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/FindThreads.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/GNUInstallDirs.cmake
+C:/Users/Балбес/Desktop/учебка/c++_opengl_уроки/SimpleEngine/external/spdlog/CMakeLists.txt
+C:/Users/Балбес/Desktop/учебка/c++_opengl_уроки/SimpleEngine/external/spdlog/cmake/ide.cmake
+C:/Users/Балбес/Desktop/учебка/c++_opengl_уроки/SimpleEngine/external/spdlog/cmake/utils.cmake

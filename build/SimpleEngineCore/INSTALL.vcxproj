@@ -195,7 +195,7 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\Балбес\Desktop\учебка\c++_opengl_уроки\SimpleEngine\build\ALL_BUILD.vcxproj">
+    <ProjectReference Include="C:\Users\Балбес\Desktop\учебка\c++_opengl_уроки\SimpleEngine\build\SimpleEngineCore\spdlog\ALL_BUILD.vcxproj">
       <Project>{08C4C8D1-B198-3C25-BD89-FE2B6140BAD3}</Project>
       <Name>ALL_BUILD</Name>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>

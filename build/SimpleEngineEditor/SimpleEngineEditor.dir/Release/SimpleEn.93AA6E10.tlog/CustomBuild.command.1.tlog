@@ -1,0 +1,10 @@
+^C:\USERS\БАЛБЕС\DESKTOP\УЧЕБКА\C++_OPENGL_УРОКИ\SIMPLEENGINE\SIMPLEENGINEEDITOR\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Балбес/Desktop/учебка/c++_opengl_уроки/SimpleEngine -BC:/Users/Балбес/Desktop/учебка/c++_opengl_уроки/SimpleEngine/build --check-stamp-file C:/Users/Балбес/Desktop/учебка/c++_opengl_уроки/SimpleEngine/build/SimpleEngineEditor/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
