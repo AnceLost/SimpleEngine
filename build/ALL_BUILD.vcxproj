@@ -181,6 +181,10 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
       <Project>{93AA6E10-679E-39D4-8743-101805ACDFC3}</Project>
       <Name>SimpleEngineEditor</Name>
     </ProjectReference>
+    <ProjectReference Include="C:\Users\Балбес\Desktop\учебка\c++_opengl_уроки\SimpleEngine\build\SimpleEngineCore\glad\glad.vcxproj">
+      <Project>{996FA03F-FE95-325A-BFFB-AC189BDED701}</Project>
+      <Name>glad</Name>
+    </ProjectReference>
     <ProjectReference Include="C:\Users\Балбес\Desktop\учебка\c++_opengl_уроки\SimpleEngine\build\SimpleEngineCore\glfw\src\glfw.vcxproj">
       <Project>{EDD5E903-D2AA-3526-86A0-DF32A5C5EFB1}</Project>
       <Name>glfw</Name>

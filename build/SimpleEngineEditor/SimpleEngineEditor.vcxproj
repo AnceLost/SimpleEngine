@@ -118,7 +118,7 @@
       <ProxyFileName>%(Filename)_p.c</ProxyFileName>
     </Midl>
     <Link>
-      <AdditionalDependencies>..\SimpleEngineCore\Debug\SimpleEngineCore.lib;..\SimpleEngineCore\glfw\src\Debug\glfw3.lib;..\SimpleEngineCore\spdlog\Debug\spdlogd.lib;kernel32.lib;user32.lib;gdi32.lib;winspool.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;comdlg32.lib;advapi32.lib</AdditionalDependencies>
+      <AdditionalDependencies>..\SimpleEngineCore\Debug\SimpleEngineCore.lib;..\SimpleEngineCore\glfw\src\Debug\glfw3.lib;..\SimpleEngineCore\spdlog\Debug\spdlogd.lib;..\SimpleEngineCore\glad\Debug\glad.lib;kernel32.lib;user32.lib;gdi32.lib;winspool.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;comdlg32.lib;advapi32.lib</AdditionalDependencies>
       <AdditionalLibraryDirectories>%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
       <AdditionalOptions>%(AdditionalOptions) /machine:x64</AdditionalOptions>
       <GenerateDebugInformation>true</GenerateDebugInformation>
@@ -166,7 +166,7 @@
       <ProxyFileName>%(Filename)_p.c</ProxyFileName>
     </Midl>
     <Link>
-      <AdditionalDependencies>..\SimpleEngineCore\Release\SimpleEngineCore.lib;..\SimpleEngineCore\glfw\src\Release\glfw3.lib;..\SimpleEngineCore\spdlog\Release\spdlog.lib;kernel32.lib;user32.lib;gdi32.lib;winspool.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;comdlg32.lib;advapi32.lib</AdditionalDependencies>
+      <AdditionalDependencies>..\SimpleEngineCore\Release\SimpleEngineCore.lib;..\SimpleEngineCore\glfw\src\Release\glfw3.lib;..\SimpleEngineCore\spdlog\Release\spdlog.lib;..\SimpleEngineCore\glad\Release\glad.lib;kernel32.lib;user32.lib;gdi32.lib;winspool.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;comdlg32.lib;advapi32.lib</AdditionalDependencies>
       <AdditionalLibraryDirectories>%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
       <AdditionalOptions>%(AdditionalOptions) /machine:x64</AdditionalOptions>
       <GenerateDebugInformation>false</GenerateDebugInformation>
@@ -214,7 +214,7 @@
       <ProxyFileName>%(Filename)_p.c</ProxyFileName>
     </Midl>
     <Link>
-      <AdditionalDependencies>..\SimpleEngineCore\MinSizeRel\SimpleEngineCore.lib;..\SimpleEngineCore\glfw\src\MinSizeRel\glfw3.lib;..\SimpleEngineCore\spdlog\MinSizeRel\spdlog.lib;kernel32.lib;user32.lib;gdi32.lib;winspool.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;comdlg32.lib;advapi32.lib</AdditionalDependencies>
+      <AdditionalDependencies>..\SimpleEngineCore\MinSizeRel\SimpleEngineCore.lib;..\SimpleEngineCore\glfw\src\MinSizeRel\glfw3.lib;..\SimpleEngineCore\spdlog\MinSizeRel\spdlog.lib;..\SimpleEngineCore\glad\MinSizeRel\glad.lib;kernel32.lib;user32.lib;gdi32.lib;winspool.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;comdlg32.lib;advapi32.lib</AdditionalDependencies>
       <AdditionalLibraryDirectories>%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
       <AdditionalOptions>%(AdditionalOptions) /machine:x64</AdditionalOptions>
       <GenerateDebugInformation>false</GenerateDebugInformation>
@@ -261,7 +261,7 @@
       <ProxyFileName>%(Filename)_p.c</ProxyFileName>
     </Midl>
     <Link>
-      <AdditionalDependencies>..\SimpleEngineCore\RelWithDebInfo\SimpleEngineCore.lib;..\SimpleEngineCore\glfw\src\RelWithDebInfo\glfw3.lib;..\SimpleEngineCore\spdlog\RelWithDebInfo\spdlog.lib;kernel32.lib;user32.lib;gdi32.lib;winspool.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;comdlg32.lib;advapi32.lib</AdditionalDependencies>
+      <AdditionalDependencies>..\SimpleEngineCore\RelWithDebInfo\SimpleEngineCore.lib;..\SimpleEngineCore\glfw\src\RelWithDebInfo\glfw3.lib;..\SimpleEngineCore\spdlog\RelWithDebInfo\spdlog.lib;..\SimpleEngineCore\glad\RelWithDebInfo\glad.lib;kernel32.lib;user32.lib;gdi32.lib;winspool.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;comdlg32.lib;advapi32.lib</AdditionalDependencies>
       <AdditionalLibraryDirectories>%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
       <AdditionalOptions>%(AdditionalOptions) /machine:x64</AdditionalOptions>
       <GenerateDebugInformation>true</GenerateDebugInformation>
@@ -344,6 +344,10 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
     <ProjectReference Include="C:\Users\Балбес\Desktop\учебка\c++_opengl_уроки\SimpleEngine\build\SimpleEngineCore\SimpleEngineCore.vcxproj">
       <Project>{42BB9795-5F66-3E64-B165-9B16229A87D0}</Project>
       <Name>SimpleEngineCore</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\Балбес\Desktop\учебка\c++_opengl_уроки\SimpleEngine\build\SimpleEngineCore\glad\glad.vcxproj">
+      <Project>{996FA03F-FE95-325A-BFFB-AC189BDED701}</Project>
+      <Name>glad</Name>
     </ProjectReference>
     <ProjectReference Include="C:\Users\Балбес\Desktop\учебка\c++_opengl_уроки\SimpleEngine\build\SimpleEngineCore\glfw\src\glfw.vcxproj">
       <Project>{EDD5E903-D2AA-3526-86A0-DF32A5C5EFB1}</Project>
